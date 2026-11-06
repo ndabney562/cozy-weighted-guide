@@ -13,5 +13,6 @@ From README.md (2026-11-02).
 - [x] Editorial redesign (v3)
 - [x] Audit findings fixed (v4)
 - [x] Published to GitHub Pages
+- [x] Amazon Associates (heavyhugs-20): Warmies Platypus + Manatee links live on the guide, 4 pins scheduled (2026-11-06)
 - [ ] Awin approves Hugimals; buttons switched to Awin deep links
 - [ ] Crate & Barrel, Target and Lehman's affiliate programs joined
