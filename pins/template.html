@@ -14,5 +14,6 @@ p{font:400 32px/1.35 "Instrument Sans";margin:26px 0 0;color:#dfe2e7}
 <script>
 const q=new URLSearchParams(location.search);
 ph.style.backgroundImage=`url(../img/${q.get('img')})`;
+if(q.get('pos'))ph.style.backgroundPosition=q.get('pos');
 k.textContent=q.get('k');h.textContent=q.get('h');p.textContent=q.get('p');
 </script></body></html>
