@@ -1,6 +1,7 @@
 # Handoff: cozy-weighted-guide (Heavy Hugs)
 
 - **Goal:** Earn affiliate commission from a weighted-plush gift guide with no stock (Noah, 2026-11-02). Live at https://ndabney562.github.io/cozy-weighted-guide/ (single `index.html`, GitHub Pages, main branch). Main program: Hugimals on Awin (15%).
+- **2026-11-14 (Claude Fable 5.2): search engines** ($0): the guide had never been submitted to a search engine (Bing `site:ndabney562.github.io` showed no results; Pinterest, its only traffic source, sent 0 clicks in 30 days). Added `sitemap.xml` and the IndexNow key file `824f45a7bdc3873b69c66237eafa80ea.txt` (a public ownership key, not a secret), then sent the URL to IndexNow (Bing, Yandex, Seznam, Naver). Google needs Search Console: do it in the same sign-in Noah already has open in `GLOBAL-TODO.md` (URL-prefix property `https://ndabney562.github.io/cozy-weighted-guide/`, HTML-file check, then submit `sitemap.xml`). Next step: [Claude, route-review-dec1, 2026-12-01] Bing `site:` check and Cloudflare visits; re-send IndexNow after any `index.html` change.
 - **Done:**
   - Guide live (v4, after AUDIT-2026-11-02.md, kept local only): 6 picks, 4 brands, sold at Hugimals, Crate & Barrel, Target, Lehman's.
   - Awin publisher account approved 2026-11-02 (publisher ID 3142901). Hugimals application sent 2026-11-02.
